@@ -1,0 +1,328 @@
+{
+  "1": [
+    {
+      "id": 101,
+      "title": "Introduction",
+      "completed": true
+    },
+    {
+      "id": 102,
+      "title": "Variables & Data Types",
+      "completed": true
+    },
+    {
+      "id": 103,
+      "title": "Operators",
+      "completed": true
+    },
+    {
+      "id": 104,
+      "title": "Strings",
+      "completed": true
+    },
+    {
+      "id": 105,
+      "title": "Lists & Tuples",
+      "completed": true
+    },
+    {
+      "id": 106,
+      "title": "Dictionaries & Sets",
+      "completed": true
+    },
+    {
+      "id": 107,
+      "title": "Control Flow",
+      "completed": true
+    },
+    {
+      "id": 108,
+      "title": "Loops",
+      "completed": true
+    },
+    {
+      "id": 109,
+      "title": "Functions",
+      "completed": true
+    },
+    {
+      "id": 110,
+      "title": "Modules & Packages",
+      "completed": true
+    },
+    {
+      "id": 111,
+      "title": "File Handling",
+      "completed": true
+    },
+    {
+      "id": 112,
+      "title": "Exceptions",
+      "completed": true
+    },
+    {
+      "id": 113,
+      "title": "OOP",
+      "completed": true
+    },
+    {
+      "id": 114,
+      "title": "Inheritance & Polymorphism",
+      "completed": false
+    },
+    {
+      "id": 115,
+      "title": "Iterators & Generators",
+      "completed": false
+    },
+    {
+      "id": 116,
+      "title": "Decorators",
+      "completed": false
+    },
+    {
+      "id": 117,
+      "title": "Regular Expressions",
+      "completed": false
+    },
+    {
+      "id": 118,
+      "title": "Working with APIs",
+      "completed": false
+    },
+    {
+      "id": 119,
+      "title": "Unit Testing",
+      "completed": false
+    },
+    {
+      "id": 120,
+      "title": "Final Project",
+      "completed": false
+    }
+  ],
+  "2": [
+    {
+      "id": 201,
+      "title": "What is Generative AI",
+      "completed": true
+    },
+    {
+      "id": 202,
+      "title": "ML Foundations",
+      "completed": true
+    },
+    {
+      "id": 203,
+      "title": "Neural Networks Primer",
+      "completed": true
+    },
+    {
+      "id": 204,
+      "title": "Transformers",
+      "completed": true
+    },
+    {
+      "id": 205,
+      "title": "Tokenization & Embeddings",
+      "completed": true
+    },
+    {
+      "id": 206,
+      "title": "Large Language Models",
+      "completed": true
+    },
+    {
+      "id": 207,
+      "title": "Prompt Engineering",
+      "completed": false
+    },
+    {
+      "id": 208,
+      "title": "Retrieval-Augmented Generation",
+      "completed": false
+    },
+    {
+      "id": 209,
+      "title": "Vector Databases",
+      "completed": false
+    },
+    {
+      "id": 210,
+      "title": "Fine-Tuning",
+      "completed": false
+    },
+    {
+      "id": 211,
+      "title": "Evaluating LLM Output",
+      "completed": false
+    },
+    {
+      "id": 212,
+      "title": "Image Generation",
+      "completed": false
+    },
+    {
+      "id": 213,
+      "title": "AI Agents & Tool Use",
+      "completed": false
+    },
+    {
+      "id": 214,
+      "title": "Safety & Responsible AI",
+      "completed": false
+    },
+    {
+      "id": 215,
+      "title": "Deploying GenAI Apps",
+      "completed": false
+    },
+    {
+      "id": 216,
+      "title": "Capstone Project",
+      "completed": false
+    }
+  ],
+  "3": [
+    {
+      "id": 301,
+      "title": "HTML Fundamentals",
+      "completed": true
+    },
+    {
+      "id": 302,
+      "title": "CSS & Layout",
+      "completed": true
+    },
+    {
+      "id": 303,
+      "title": "Responsive Design",
+      "completed": true
+    },
+    {
+      "id": 304,
+      "title": "JavaScript Basics",
+      "completed": true
+    },
+    {
+      "id": 305,
+      "title": "DOM Manipulation",
+      "completed": true
+    },
+    {
+      "id": 306,
+      "title": "Async JavaScript",
+      "completed": true
+    },
+    {
+      "id": 307,
+      "title": "Git & GitHub",
+      "completed": true
+    },
+    {
+      "id": 308,
+      "title": "TypeScript",
+      "completed": false
+    },
+    {
+      "id": 309,
+      "title": "React Fundamentals",
+      "completed": false
+    },
+    {
+      "id": 310,
+      "title": "React Hooks",
+      "completed": false
+    },
+    {
+      "id": 311,
+      "title": "State Management",
+      "completed": false
+    },
+    {
+      "id": 312,
+      "title": "Routing",
+      "completed": false
+    },
+    {
+      "id": 313,
+      "title": "Node.js Basics",
+      "completed": false
+    },
+    {
+      "id": 314,
+      "title": "Express APIs",
+      "completed": false
+    },
+    {
+      "id": 315,
+      "title": "REST API Design",
+      "completed": false
+    },
+    {
+      "id": 316,
+      "title": "Authentication",
+      "completed": false
+    },
+    {
+      "id": 317,
+      "title": "SQL Databases",
+      "completed": false
+    },
+    {
+      "id": 318,
+      "title": "NoSQL with MongoDB",
+      "completed": false
+    },
+    {
+      "id": 319,
+      "title": "ORMs",
+      "completed": false
+    },
+    {
+      "id": 320,
+      "title": "Testing the Frontend",
+      "completed": false
+    },
+    {
+      "id": 321,
+      "title": "Testing the Backend",
+      "completed": false
+    },
+    {
+      "id": 322,
+      "title": "Docker Basics",
+      "completed": false
+    },
+    {
+      "id": 323,
+      "title": "CI/CD",
+      "completed": false
+    },
+    {
+      "id": 324,
+      "title": "Cloud Deployment",
+      "completed": false
+    },
+    {
+      "id": 325,
+      "title": "Performance",
+      "completed": false
+    },
+    {
+      "id": 326,
+      "title": "Security Essentials",
+      "completed": false
+    },
+    {
+      "id": 327,
+      "title": "System Design Basics",
+      "completed": false
+    },
+    {
+      "id": 328,
+      "title": "Capstone Project",
+      "completed": false
+    }
+  ]
+}
